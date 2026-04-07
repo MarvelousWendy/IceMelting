@@ -10,4 +10,4 @@
 
 _🧑🏻‍💻📝谨此软件纪念我在悉尼科技大学度过的美好而忙碌的日子。_
 
-Prrsentation sequence: match game--profile--chatview--chatbot
+Presentation sequence: match game--profile--chatview--chatbot
